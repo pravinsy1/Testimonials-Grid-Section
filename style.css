@@ -21,10 +21,11 @@ body {
 }
 .testimonials {
   max-width: 1440px;
-  margin: 10% auto 8% auto;
+  margin: 135px auto;
   padding: 20px;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, 256px);
+  justify-content: center;
   gap: 20px;
 }
 .card {
