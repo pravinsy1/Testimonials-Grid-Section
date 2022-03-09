@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/pravinsy1/Testimonials-Grid-Section)]
-- Live Site URL: [(https://pravinsy1.github.io/Testimonials-Grid-Section/)]
+- Solution URL: [https://github.com/pravinsy1/Testimonials-Grid-Section]
+- Live Site URL: [https://pravinsy1.github.io/Testimonials-Grid-Section]
 
 ## My process
 
